@@ -109,7 +109,7 @@ print(result["predicted_class"], result["confidence"])
 ```
 .
 ├── Groundwater_Quality_ML_Rajasthan.ipynb   # main notebook (this pipeline)
-├── gwq_chemical_parameter_manual_cgwb_rj_1961_2025.csv                               # generated on run (figures, tables, model)
+├── gwq_chemical_parameter_manual_cgwb_rj_1961_2025.csv                               
 └── README.md
 ```
 
