@@ -119,6 +119,3 @@ print(result["predicted_class"], result["confidence"])
 - **Standards:** BIS 10500:2012 (drinking water), USSL / Richards (1954), APHA 1030E
 - **Methods referenced:** Eaton (1950) RSC, Wilcox %Na, Theil–Sen / Mann–Kendall trend tests, Conformalized Quantile Regression
 
-## License
-
-Add a license of your choice (e.g., MIT) before publishing publicly if the CGWB data terms permit redistribution of derived code and outputs.
